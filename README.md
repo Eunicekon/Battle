@@ -1,6 +1,7 @@
 # Battle
 
-To run app: rackup
+- To run the app: rackup
+- To Unit test: rspec
 
 - User story:
 As two Players,
