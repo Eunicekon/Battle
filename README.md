@@ -25,8 +25,8 @@ So we can continue our game of Battle,
 We want to switch turns
 
 As Player 1,
-So I can see how close I am to losing,
-I want to see my own hit points
+So I can see how close I am to winning
+I want to see Player 2's Hit Points
 
 As Player 1,
 So I can lose a game of Battle,
