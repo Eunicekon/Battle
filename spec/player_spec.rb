@@ -1,10 +1,7 @@
 require 'player'
 
 describe Player do
-  subject(:eunice) { Player.new('eunice') } #this is the capybara syntax for writing variables. 
-  #this basically is: subject = eunice
-
-  #double
+  subject(:eunice) { Player.new('eunice') } 
 
   describe '#name' do
     it 'returns the name' do

@@ -1,7 +1,10 @@
 feature 'Attacking' do
   scenario 'attack Player 2' do
     sign_in_and_play
-    click_link 'Attack'
-    expect(page).to have_content 'Eunice attacked Mittens'
+    click_button 'Attack'
+    expect(page).to have_content 'eunice attacked Mittens'
   end
 end
+
+
+
